@@ -5,3 +5,4 @@
 *.pt
 myImages/
 __pycache__/
+preprocess.p
